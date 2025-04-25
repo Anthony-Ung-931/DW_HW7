@@ -18,3 +18,11 @@ TO DO:
         - 2025 Q1 Rank
 
     - Same table except for new categories
+        - Subcategory
+        - Parent Category
+        - Combined Rank and #Sold
+        - SKU
+        - 2024 Q1 Sold
+        - 2024 Q1 Rank
+        - 2025 Q1 Sold
+        - 2025 Q1 Rank
