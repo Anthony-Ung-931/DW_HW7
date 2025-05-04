@@ -1,3 +1,5 @@
 01_Source_DBs/Region_C_Data_Mart.db
 
 *.db
+
+.venv/*
